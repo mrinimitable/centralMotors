@@ -1,0 +1,252 @@
+
+@charset "utf-8";
+/* CSS Document */
+/* index css */
+
+
+.header {
+	background: #fff;
+	color: #fff;
+	/* height: 75px; */
+	width: 100%;
+/* 	font-size: 32px; */
+	/* padding-left: 5%; */
+}
+
+.thead_bg {
+	background-color: #eee;
+}
+
+.heading {
+	width: 100%;
+	margin-top: 2px;
+}
+
+.footerBottomSection {
+	background: #c1902f;
+	padding: 5px 0;
+	float: left;
+	width: 100%;
+}
+
+.heading_Foot {
+	list-style: none;
+	padding: 0px;
+	color: #161430;
+	font-size: 18px;
+	font-weight: 600;
+	text-shadow: 0px 10px 15px #000000;
+}
+
+.heading_text {
+
+    font-weight: bold;
+    width: 100%;
+    float:left;
+  
+    font-size: 52px;
+    text-shadow: 0px 11px 10px #8E8989;
+    font-family: serif;
+}
+
+.main {
+	background: #FFF;
+	float: left;
+	width: 100%;
+}
+
+.left_side {
+	padding: 0 5px;
+	min-height: 400px;
+	background: #F8F8F8;
+}
+
+.right_side {
+	float: left;
+	width: 100%;
+	background: #fdfdfdF;
+	padding: 10px 0;
+	border-radius: 5px;
+	box-shadow: 0 5px 10px 0 #888686;
+	margin-bottom: 10px;
+}
+
+.full {
+	float: left;
+	width: 100%;
+	/* background:#E5E4C5; */
+	/* min-height: 400px; */
+}
+
+.sec_heading {
+	    width: 100%;
+    float: left;
+    font-weight: bold;
+    font-size: 20px;
+    color: #FFF;
+    font-variant: small-caps;
+    padding: 2px;
+    margin-bottom: 10px;
+    text-shadow: 0px 8px 8px #524242;
+    text-align: center;
+    background: linear-gradient(to left, #FFFFFF 0%, #997646 50%, #997646 51%, #FFFFFF 100%);
+}
+
+.border {
+	border: 1px solid #F3F3F3;
+	width: 100%;
+	margin: 20px 0;
+}
+
+.center_head {
+	color: #1E4390;
+	text-align: center;
+	border-bottom: 1px solid #ccc;
+	font-size: 18px;
+}
+
+.back_strip {
+	width: 100%;
+	background: linear-gradient(to bottom, #8b632e 0%, #ffffff 50%, #ffffff 51%,  #8b632e    100%);
+	text-align: center;
+	color: #000;
+	font-size: 14px;
+	margin-bottom: 5px;
+	font-weight: bold;
+}
+
+.back_strip_a {
+	width: 100%;
+	/* background: linear-gradient(to top, #D9D9D9 0%, #FFFFFF 50%, #FFFFFF 51%, #D6D6D6
+		100%); */
+	text-align: center;
+	color: #141413;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.submit {
+	background: #997646;
+	color: #fff;
+	font-weight: bold;
+}
+
+.deatail_strip {
+	background: linear-gradient(to left, #F1F0EA 0%, #A8A48C 50%, #A8A48C 51%, #F1F0EA
+		100%);
+	color: #DE6018;
+	text-align: center;
+	width: 100%;
+	float: left;
+	font-size: 18px;
+}
+
+#primary_nav_wrap {
+	margin-top: 5px
+}
+
+#primary_nav_wrap ul {
+	list-style: none;
+	position: relative;
+	float: left;
+	margin: 0;
+	padding: 0;
+	background: #997646;
+	
+}
+
+#primary_nav_wrap ul a {
+	display: block;
+	color: #FFF;
+	text-decoration: none;
+	font-weight: 700;
+	font-size: 12px;
+	line-height: 32px;
+	padding: 0 12px;
+}
+
+#primary_nav_wrap ul a:hover {
+	display: block;
+	color: #000;
+	text-decoration: none;
+	font-weight: 700;
+	font-size: 12px;
+	line-height: 32px;
+	padding: 0 12px;
+}
+
+#primary_nav_wrap ul li {
+	position: relative;
+	float: left;
+	margin: 0;
+	padding: 0
+}
+
+#primary_nav_wrap ul li.current-menu-item {
+	background: #ddd
+}
+
+#primary_nav_wrap ul li:hover {
+	background:#c7ad70;
+}
+
+#primary_nav_wrap ul ul {
+	display: none;
+	position: absolute;
+	top: 100%;
+	left: 0;
+	background:#997646;
+	padding: 0
+}
+
+#primary_nav_wrap ul ul li {
+	float: none;
+	width:145px
+}
+
+#primary_nav_wrap ul ul a {
+	line-height: 50%;
+	padding: 10px 15px
+}
+
+#primary_nav_wrap ul ul ul {
+	top: 0;
+	left: 100%
+}
+
+#primary_nav_wrap ul li:hover>ul {
+	display: block
+}
+
+.xyz {
+	
+}
+
+.xyz:hover {
+	background: #F3F3F3;
+	border-radius: 5px 5px 0 0;
+	color: #000;
+}
+
+ .total_box
+ {
+ width: 100%; float: left; padding: 10px 0px; border: 1px solid #e8e8e8; box-shadow: 0 0 5px 0 #e0e0e0;}
+ 
+.total_heading
+{
+	width: 100%; float: left; text-align: center; font-size: 20px; color: #c73c41; text-shadow: 0 6px 10px #9c9c9c;
+}
+.total_amt
+{
+	width: 100%; float: left; text-align: center;
+}
+.page
+{
+	width: 100%; float: left;
+	
+}
+.total_blc
+{
+	width: 100%; float: left; background:#ececec; text-align: center; padding: 15px 0px 15px 5px; border: 1px solid #e8e8e8;
+	
+}
