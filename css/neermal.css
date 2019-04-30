@@ -1,0 +1,209 @@
+/* CSS Document */
+
+/**********************new neermal ********************/
+.fac_wraper { /*width:100%;
+	height:100%*/
+	background-color: #;
+	margin: 0 auto;
+	width: 1000px;
+}
+
+.fac {
+	border: background:  #f7f2ee;
+	margin-top: 70px;
+	padding: 6px 12px;
+	width: 1000px;
+	height: auto;
+	/*margin-left:180px;*/
+}
+
+.neermal_bodynew {
+	width: 849px;
+	height: 302px;
+	float: left;
+	background: url(../image/neermal.jpeg) no-repeat;
+	border: #CCC thin solid;
+}
+
+.neermal_bodynew1 {
+	width: 960px;
+	height: 457px;
+	float: left;
+	background: url(../image/ganga.jpg) no-repeat;
+	margin-top: -76px;
+	border: #CCC thin solid;
+}
+
+.neermal_nm {
+	width: 600px;
+	background-color: #;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 17px;
+	color: #000000;
+	float: left;
+	margin-top: 182px;
+	margin-left: 100px;
+	text-align: left;
+	text-transform: uppercase;
+}
+
+.neermal_bill_nm {
+	width: 138px;
+	background-color: #;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #000000;
+	float: left;
+	margin-top: 182px;
+	margin-left: 100px;
+	text-align: left;
+}
+
+.neermal_date_nm {
+	width: 138px;
+	background-color: #;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #000000;
+	float: right;
+	margin-top: 15px;
+	text-align: left;
+	margin-right: 20px;
+}
+
+.Period_box_txt {
+	background-color: #;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #000000;
+	float: left;
+	margin-top: 85px;
+	margin-left: 127px;
+	text-align: left;
+	text-transform: uppercase;
+}
+
+.Period_pre_txt {
+	background-color: #;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	color: #000000;
+	float: left;
+	margin-top: 129px;
+	margin-left: -233px;
+	text-align: left;
+	text-transform: uppercase;
+}
+
+.Period_total_txt {
+	background-color: #;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	color: #000000;
+	float: left;
+	margin-top: 148px;
+	margin-left: -233px;
+	text-align: left;
+	text-transform: uppercase;
+}
+
+.current_due_txt {
+	background-color: #;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	color: #000000;
+	float: left;
+	margin-top: 168px;
+	margin-left: -233px;
+	text-align: left;
+	text-transform: uppercase;
+}
+
+.cane {
+	width: 120px;
+	background-color: #;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #000000;
+	float: left;
+	margin-top: 90px;
+	margin-left: -126px;
+	text-align: center;
+	text-align: upercase;
+}
+
+.rate {
+	width: 125px;
+	background-color: #;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #000000;
+	float: left;
+	margin-top: 90px;
+	margin-left: -1px;
+	text-align: center;
+	text-align: upercase;
+}
+
+.amount {
+	width: 185px;
+	background-color: #;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #000000;
+	float: left;
+	margin-top: 46px;
+	margin-left: 5px;
+	text-align: center;
+	text-align: upercase;
+}
+
+.amount1 {
+	width: 190px;
+	background-color: #;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #000000;
+	float: left;
+	margin-top: -100px;
+	margin-left: 750px;
+	text-align: center;
+	text-align: upercase;
+}
+
+.amount2 {
+	width: 190px;
+	background-color: #;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #000000;
+	float: left;
+	margin-top: -80px;
+	margin-left: 747px;
+	text-align: center;
+}
+
+.inwords {
+	width: 90px;
+	background-color: #;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 17px;
+	color: #000000;
+	float: left;
+	margin-top: 224px;
+	margin-left: -107px;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.inwords_1 {
+	width: 450px;
+	background-color: #;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 17px;
+	color: #000000;
+	float: left;
+	margin-top: 201px;
+	margin-left: -98px;
+	text-transform: uppercase;
+}

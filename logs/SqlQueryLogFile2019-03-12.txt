@@ -1,0 +1,2 @@
+ [2019-03-12 10:09:14] com.mysql.jdbc.JDBC4PreparedStatement@f80d1c8: SELECT id, shopname,address, Mobile,GSTIN, term, sing,bill_status FROM adminbillchange LIMIT 1; 
+ [2019-03-12 19:52:01] com.mysql.jdbc.JDBC4PreparedStatement@650484b9: SELECT id, shopname,address, Mobile,GSTIN, term, sing,bill_status FROM adminbillchange LIMIT 1; 

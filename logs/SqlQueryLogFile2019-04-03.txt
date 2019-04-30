@@ -1,0 +1,8 @@
+ [2019-04-03 10:52:57] com.mysql.jdbc.JDBC4PreparedStatement@7571f7f5: SELECT id, shopname,address, Mobile,GSTIN, term, sing,bill_status FROM adminbillchange LIMIT 1; 
+ [2019-04-03 12:48:14] com.mysql.jdbc.JDBC4PreparedStatement@36a7e8d0: SELECT id, shopname,address, Mobile,GSTIN, term, sing,bill_status FROM adminbillchange LIMIT 1; 
+ [2019-04-03 12:54:38] com.mysql.jdbc.JDBC4PreparedStatement@1bd6b768: SELECT id, shopname,address, Mobile,GSTIN, term, sing,bill_status FROM adminbillchange LIMIT 1; 
+ [2019-04-03 12:54:48] com.mysql.jdbc.JDBC4PreparedStatement@70bf45fd: SELECT id, shopname,address, Mobile,GSTIN, term, sing,bill_status FROM adminbillchange LIMIT 1; 
+ [2019-04-03 12:58:28] com.mysql.jdbc.JDBC4PreparedStatement@11160f61: SELECT id, shopname,address, Mobile,GSTIN, term, sing,bill_status FROM adminbillchange LIMIT 1; 
+ [2019-04-03 13:41:02] com.mysql.jdbc.JDBC4PreparedStatement@67a0be3a: SELECT id, shopname,address, Mobile,GSTIN, term, sing,bill_status FROM adminbillchange LIMIT 1; 
+ [2019-04-03 13:42:33] com.mysql.jdbc.JDBC4PreparedStatement@7e582b76: SELECT id, shopname,address, Mobile,GSTIN, term, sing,bill_status FROM adminbillchange LIMIT 1; 
+ [2019-04-03 20:22:20] com.mysql.jdbc.JDBC4PreparedStatement@3c8ee174: SELECT id, shopname,address, Mobile,GSTIN, term, sing,bill_status FROM adminbillchange LIMIT 1; 
